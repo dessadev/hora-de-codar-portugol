@@ -7,6 +7,9 @@ Bem-vindo(a) ao repositório #Hora de Codar! Aqui você encontra uma coleção d
 Alguns exemplos de tópicos explorados:
 
 🧠 Fundamentos de Lógica: Operações matemáticas básicas, uso de variáveis e entrada/saída de dados
+
 📐 Estruturas Condicionais: Criação de decisões lógicas com comandos como "se", "senao" e "escolha"
+
 🔁 Laços de Repetição: Prática com estruturas como "enquanto" e "para" para resolver problemas repetitivos
+
 📊 Algoritmos Simples: Atividades para desenvolver o raciocínio lógico, como cálculos de média, contadores e verificações de números
