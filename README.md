@@ -1,8 +1,8 @@
 # ⏰ Hora de Codar | Portugol
 
-Bem-vindo(a) ao repositório #Hora de Codar! Aqui você encontra uma coleção de exercícios práticos desenvolvidos em Portugol, criados para praticar conceitos fundamentais de lógica de programação e algoritmos básicos. Desde cálculos simples até o uso de estruturas condicionais e laços de repetição, esses desafios foram feitos para ajudar a fortalecer suas habilidades iniciais em programação! 🚀
+Bem-vindo(a) ao repositório *Hora de Codar!* Aqui você encontra uma coleção de exercícios práticos desenvolvidos em Portugol, criados para praticar conceitos fundamentais de lógica de programação e algoritmos básicos. Desde cálculos simples até o uso de estruturas condicionais e laços de repetição, esses desafios foram feitos para ajudar a fortalecer suas habilidades iniciais em programação! 🚀
 
-📋 Conteúdo
+📋 *Conteúdo*
 
 Alguns exemplos de tópicos explorados:
 
